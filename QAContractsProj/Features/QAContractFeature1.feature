@@ -1,9 +1,9 @@
 ﻿Feature: QAContractFeature1
 
-A short summary of the feature
+
 
 @tag1
-Scenario: [scenario name]
+Scenario: login  to salesForce
 	Given [context]
 	When [action]
 	Then [outcome]
