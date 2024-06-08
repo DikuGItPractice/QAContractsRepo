@@ -1,0 +1,4 @@
+*.cache
+*.json
+*.cs
+gitignoretestfile.txt
